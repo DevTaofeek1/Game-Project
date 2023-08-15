@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../100 days of python"
+		},
+		{
+			"path": "../../file"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"bianxianyang.htmlplay",
+			"ritwickdey.liveserver",
+			"ms-python.vscode-pylance",
+			"ritwickdey.LiveServer"
+		]
+	},
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bBBB"
+	}
+}
